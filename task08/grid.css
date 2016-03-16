@@ -5,8 +5,6 @@
 /* float grid system */
 .f-container {
   width: 100%;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 .f-row {
@@ -58,8 +56,6 @@
 /* flexbox grid system */
 .fx-container {
   width: 100%;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 .fx-row {
